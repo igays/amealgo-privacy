@@ -1,13 +1,14 @@
 # AMEALGO Terms and Conditions
 
-Disclaimer
+### Disclaimer
 Amealgo is a software as a service platform and we do not represent that we are a nutritionist or hospitality business. You acknowledge and agree that we share and publish information on our Platform, but that this does not constitute any guidance by us on decisions relating to you or your health. You are responsible for identifying any allergies or other health conditions you have when using our platform. 
 1Introduction
 1.1These terms and conditions (Terms) are entered into between Amealgo Pty Ltd ABN 99 649 370 310 (we, us or our) and you, together the Parties and each a Party. 
 1.2We provide a cloud-based, software as a service nutrition platform (Platform) via memberships to our Users (Membership).
 1.3We are a platform that connects nutrition professionals, users (clients seeking nutritional advice) and food vendors. We help vendors develop nutrition profiles for their meals. Nutritionists then use these nutrition profiles to develop meal plans for users to achieve their weight loss goals. 
 1.4In these Terms, you means the person or entity registered with us as an Account holder either as a consumer or a nutritionist. 
-2Acceptance and Platform Licence
+
+### Acceptance and Platform Licence
 2.1You accept these Terms by checking the box, clicking “I accept”, registering on the Platform, or using the Platform.
 2.2We may amend these Terms at any time, by providing written notice to you. By clicking “I accept” or continuing to use the Platform after the notice or 30 days after notification (whichever date is earlier), you agree to the amended Terms. If you do not agree to the amendment, you may terminate your Membership in accordance with the “Cancellation of Memberships” clause.
 2.3If you access or download our mobile application from (1) the Apple App Store, you agree to any Usage Rules set forth in the App Store Terms of Service or (2) the Google Play Store, you agree to the Android, Google Inc. Terms and Conditions including the Google Apps Terms of Service.
@@ -112,8 +113,14 @@ Nutritionists
 14.1Consequential Loss includes any consequential loss, indirect loss, real or anticipated loss of profit, loss of benefit, loss of revenue, loss of business, loss of goodwill, loss of opportunity, loss of savings, loss of reputation, loss of use and/or loss or corruption of data, whether under statute, contract, equity, tort (including negligence), indemnity or otherwise.
 14.2Intellectual Property means any domain names, know-how, inventions, processes, trade secrets or confidential information; or circuit layouts, software, computer programs, databases or source codes, including any application, or right to apply, for registration of, and any improvements, enhancements or modifications of, the foregoing.
 14.3Liability means any expense, cost, liability, loss, damage, claim, notice, entitlement, investigation, demand, proceeding or judgment (whether under statute, contract, equity, tort (including negligence), indemnity or otherwise), howsoever arising, whether direct or indirect and/or whether present, unascertained, future or contingent and whether involving a third party or a party to these Terms or otherwise.
+
+
 For any questions or notices, please contact us at:
+
 Amealgo Pty Ltd ABN 99 649 370 310
+
 Email: amealgoaustralia@gmail.com
+
 Last update: 20 May 2022
+
 © LegalVision ILP Pty Ltd
