@@ -92,8 +92,12 @@ Our website may contain links to other party’s websites. We do not have any co
 We may, at any time and at our discretion, vary this Privacy Policy by publishing the amended Privacy Policy on our website. We recommend you check our website regularly to ensure you are aware of our current Privacy Policy.
 
 For any questions or notices, please contact us at:
+
 Amealgo Pty Ltd ABN 99 649 370 310 
+
 Email: amealgoaustralia@gmail.com
+
 Last update: 27 May 2022
+
 © LegalVision ILP Pty Ltd 
 
