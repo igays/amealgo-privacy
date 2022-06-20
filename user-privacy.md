@@ -24,13 +24,9 @@ Amealgo is a software as a service platform and we do not represent that we are 
 2.5When using the Platform, you must not do or attempt to do anything that is unlawful or inappropriate, including: 
 
 (a)anything that would constitute a breach of an individual’s privacy (including uploading private or personal information without an individual's consent) or any other legal rights;
-
 (b)using the Platform to defame, harass, threaten, menace or offend any person, including using the Platform to send unsolicited electronic messages;
-
 (c)tampering with or modifying the Platform (including by transmitting viruses and using trojan horses);
-
 (d)using data mining, robots, screen scraping or similar data gathering and extraction tools on the Platform; or
-
 (e)facilitating or assisting a third party to do any of the above acts.
 
 ## Amealgo Services
@@ -73,11 +69,8 @@ Nutritionists
 6.5You must not, without our prior written consent:
 
 (a)copy, in whole or in part, any Platform Intellectual Property; 
-
 (b)reproduce, retransmit, distribute, disseminate, sell, publish, broadcast or circulate any Platform Intellectual Property to any third party; or
-
 (c)breach any intellectual property rights connected with the Platform, including (without limitation) altering or modifying any Platform Intellectual Property, downloading Platform Intellectual Property, causing any Platform Intellectual Property to be framed or embedded in another website, or creating derivative works from any Platform Intellectual Property; and 
-
 (d)if you are a Nutritionist, this clause 6.5 does not apply to the Nutritionist Intellectual Property you have made available on the Platform. 
 
 6.6We may permit you to publish, post or repost Platform Intellectual Property on your social media page as outlined on the Platform. 
